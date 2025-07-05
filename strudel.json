@@ -1,17 +1,17 @@
 {
-	"_base": "https://raw.githubusercontent.com/proudly-music/breaks/main/",
-	"808":[
-		"/Drum Hits/TR/808/808BDRUM.WAV",
-		"/Drum Hits/TR/808/808CLAP.WAV",
-		"/Drum Hits/TR/808/808CLAVE.WAV",
-		"/Drum Hits/TR/808/808CLHAT.WAV",
-		"/Drum Hits/TR/808/808COW.WAV",
-		"/Drum Hits/TR/808/808CRASH.WAV",
-		"/Drum Hits/TR/808/808OPHAT.WAV",
-		"/Drum Hits/TR/808/808RIM.WAV",
-		"/Drum Hits/TR/808/808SHAKE.WAV",
-		"/Drum Hits/TR/808/808SNARE.WAV"
-	],
+"_base": "https://raw.githubusercontent.com/proudly-music/breaks/main/",
+"808":[
+	"/Drum Hits/TR/808/808BDRUM.WAV",
+	"/Drum Hits/TR/808/808CLAP.WAV",
+	"/Drum Hits/TR/808/808CLAVE.WAV",
+	"/Drum Hits/TR/808/808CLHAT.WAV",
+	"/Drum Hits/TR/808/808COW.WAV",
+	"/Drum Hits/TR/808/808CRASH.WAV",
+	"/Drum Hits/TR/808/808OPHAT.WAV",
+	"/Drum Hits/TR/808/808RIM.WAV",
+	"/Drum Hits/TR/808/808SHAKE.WAV",
+	"/Drum Hits/TR/808/808SNARE.WAV"
+],
 	"909":[
 		"/Drum Hits/TR/909/909BDRUM.WAV",
 		"/Drum Hits/TR/909/909CLAP.WAV",
@@ -259,32 +259,32 @@
 		"/160BPM/YOSEMITE.WAV",
 		"/160BPM/ZONGO.WAV"
 	],
-	/*
-	"Amen_Breaks":[
-		"/Amen_Breaks/173_amen_4th_gen-02.wav","/Amen_Breaks/8-bit_amen.wav","/Amen_Breaks/Amen-tal.wav","/Amen_Breaks/amen1.wav","/Amen_Breaks/amen2.wav",
-		"/Amen_Breaks/amen3.wav","/Amen_Breaks/amen_4_a_saturated.wav","/Amen_Breaks/amen_donny_1.wav","/Amen_Breaks/amen_warfare.wav","/Amen_Breaks/amenattempt1.wav",
-		"/Amen_Breaks/amenbrother175bpm.wav","/Amen_Breaks/amenz.wav","/Amen_Breaks/b-complex_amen.wav","/Amen_Breaks/bassport_amen.wav","/Amen_Breaks/braindamage.wav",
-		"/Amen_Breaks/cmc_amen.wav","/Amen_Breaks/end3.wav","/Amen_Breaks/forensic_amen_for_doa.wav","/Amen_Breaks/futur_amen.wav","/Amen_Breaks/hydramen.wav",
-		"/Amen_Breaks/inertiamen.wav","/Amen_Breaks/navarone--amen-180.wav","/Amen_Breaks/navarone-boxy_combo2-170.wav","/Amen_Breaks/peacebewithyouamen.wav",
-		"/Amen_Breaks/pendulamen93.wav","/Amen_Breaks/pendulum_amen_syndicate_remix.wav","/Amen_Breaks/rs_-________new_amen_2______(master).wav",
-		"/Amen_Breaks/rs_-_another_amen.wav","/Amen_Breaks/rs_amen.wav","/Amen_Breaks/rsamen_2_(3bar).wav","/Amen_Breaks/simian_amen.wav","/Amen_Breaks/sol-amen.wav",
-		"/Amen_Breaks/subsonic_amen.wav","/Amen_Breaks/subsonic_amen2.wav","/Amen_Breaks/subsonic_amen3.wav","/Amen_Breaks/syndicate_amen_02.wav",
-		"/Amen_Breaks/tc_amen2.wav","/Amen_Breaks/tc_amen_for_doa.wav","/Amen_Breaks/winstons_amen_p2a1.wav","/Amen_Breaks/xlr8amen2bar@180.wav",
-		"/Amen_Breaks/xlr_amen_phat.wav","/Amen_Breaks/xlr_eq_amen.wav","/Amen_Breaks/xlramen170big.wav"
-	],
-	"Hits N Stabs":[
-		"/Amen_Breaks/Desecrated Productions Bass Sounds free download/Hits N Stabs/Desecrated bass hit 01.wav",
-		"/Amen_Breaks/Desecrated Productions Bass Sounds free download/Hits N Stabs/Desecrated bass hit 02.wav",
-		"/Amen_Breaks/Desecrated Productions Bass Sounds free download/Hits N Stabs/Desecrated bass hit 03.wav",
-		"/Amen_Breaks/Desecrated Productions Bass Sounds free download/Hits N Stabs/Desecrated bass hit 04.wav",
-		"/Amen_Breaks/Desecrated Productions Bass Sounds free download/Hits N Stabs/Desecrated bass hit 05.wav",
-		"/Amen_Breaks/Desecrated Productions Bass Sounds free download/Hits N Stabs/Desecrated bass hit 06.wav",
-		"/Amen_Breaks/Desecrated Productions Bass Sounds free download/Hits N Stabs/Desecrated bass hit 07.wav",
-		"/Amen_Breaks/Desecrated Productions Bass Sounds free download/Hits N Stabs/Desecrated bass hit 08.wav",
-		"/Amen_Breaks/Desecrated Productions Bass Sounds free download/Hits N Stabs/Desecrated bass hit 09.wav",
-		"/Amen_Breaks/Desecrated Productions Bass Sounds free download/Hits N Stabs/Desecrated bass hit 10.wav",
-		"/Amen_Breaks/Desecrated Productions Bass Sounds free download/Hits N Stabs/Desecrated bass hit 11.wav",
-		"/Amen_Breaks/Desecrated Productions Bass Sounds free download/Hits N Stabs/Desecrated bass hit 12.wav",
+
+"Amen_Breaks":[
+	"/Amen_Breaks/173_amen_4th_gen-02.wav","/Amen_Breaks/8-bit_amen.wav","/Amen_Breaks/Amen-tal.wav","/Amen_Breaks/amen1.wav","/Amen_Breaks/amen2.wav",
+	"/Amen_Breaks/amen3.wav","/Amen_Breaks/amen_4_a_saturated.wav","/Amen_Breaks/amen_donny_1.wav","/Amen_Breaks/amen_warfare.wav","/Amen_Breaks/amenattempt1.wav",
+	"/Amen_Breaks/amenbrother175bpm.wav","/Amen_Breaks/amenz.wav","/Amen_Breaks/b-complex_amen.wav","/Amen_Breaks/bassport_amen.wav","/Amen_Breaks/braindamage.wav",
+	"/Amen_Breaks/cmc_amen.wav","/Amen_Breaks/end3.wav","/Amen_Breaks/forensic_amen_for_doa.wav","/Amen_Breaks/futur_amen.wav","/Amen_Breaks/hydramen.wav",
+	"/Amen_Breaks/inertiamen.wav","/Amen_Breaks/navarone--amen-180.wav","/Amen_Breaks/navarone-boxy_combo2-170.wav","/Amen_Breaks/peacebewithyouamen.wav",
+	"/Amen_Breaks/pendulamen93.wav","/Amen_Breaks/pendulum_amen_syndicate_remix.wav","/Amen_Breaks/rs_-________new_amen_2______(master).wav",
+	"/Amen_Breaks/rs_-_another_amen.wav","/Amen_Breaks/rs_amen.wav","/Amen_Breaks/rsamen_2_(3bar).wav","/Amen_Breaks/simian_amen.wav","/Amen_Breaks/sol-amen.wav",
+	"/Amen_Breaks/subsonic_amen.wav","/Amen_Breaks/subsonic_amen2.wav","/Amen_Breaks/subsonic_amen3.wav","/Amen_Breaks/syndicate_amen_02.wav",
+	"/Amen_Breaks/tc_amen2.wav","/Amen_Breaks/tc_amen_for_doa.wav","/Amen_Breaks/winstons_amen_p2a1.wav","/Amen_Breaks/xlr8amen2bar@180.wav",
+	"/Amen_Breaks/xlr_amen_phat.wav","/Amen_Breaks/xlr_eq_amen.wav","/Amen_Breaks/xlramen170big.wav"
+],
+"Hits N Stabs":[
+	"/Amen_Breaks/Desecrated Productions Bass Sounds free download/Hits N Stabs/Desecrated bass hit 01.wav",
+	"/Amen_Breaks/Desecrated Productions Bass Sounds free download/Hits N Stabs/Desecrated bass hit 02.wav",
+	"/Amen_Breaks/Desecrated Productions Bass Sounds free download/Hits N Stabs/Desecrated bass hit 03.wav",
+	"/Amen_Breaks/Desecrated Productions Bass Sounds free download/Hits N Stabs/Desecrated bass hit 04.wav",
+	"/Amen_Breaks/Desecrated Productions Bass Sounds free download/Hits N Stabs/Desecrated bass hit 05.wav",
+	"/Amen_Breaks/Desecrated Productions Bass Sounds free download/Hits N Stabs/Desecrated bass hit 06.wav",
+	"/Amen_Breaks/Desecrated Productions Bass Sounds free download/Hits N Stabs/Desecrated bass hit 07.wav",
+	"/Amen_Breaks/Desecrated Productions Bass Sounds free download/Hits N Stabs/Desecrated bass hit 08.wav",
+	"/Amen_Breaks/Desecrated Productions Bass Sounds free download/Hits N Stabs/Desecrated bass hit 09.wav",
+	"/Amen_Breaks/Desecrated Productions Bass Sounds free download/Hits N Stabs/Desecrated bass hit 10.wav",
+	"/Amen_Breaks/Desecrated Productions Bass Sounds free download/Hits N Stabs/Desecrated bass hit 11.wav",
+	"/Amen_Breaks/Desecrated Productions Bass Sounds free download/Hits N Stabs/Desecrated bass hit 12.wav",
 		"/Amen_Breaks/Desecrated Productions Bass Sounds free download/Hits N Stabs/Desecrated bass hit 13.wav",
 		"/Amen_Breaks/Desecrated Productions Bass Sounds free download/Hits N Stabs/Desecrated bass hit 14.wav",
 		"/Amen_Breaks/Desecrated Productions Bass Sounds free download/Hits N Stabs/Desecrated bass hit 15.wav",
@@ -581,7 +581,6 @@
 		"/New Breaks/2z/2i2.wav","/New Breaks/2z/2i3.wav","/New Breaks/2z/2i4.wav","/New Breaks/2z/2i5.wav","/New Breaks/2z/2i6.wav",
 		"/New Breaks/2z/2i7.wav","/New Breaks/2z/2i8.wav","/New Breaks/2z/2i9.wav","/New Breaks/2z/2i9_4).wav"
 	]
-*/
 
 
 }
